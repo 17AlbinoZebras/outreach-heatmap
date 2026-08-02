@@ -1,0 +1,538 @@
+{
+  "Alachua County": {
+    "fips": "12001",
+    "total_pop": 290028,
+    "pop_50_plus": 85502,
+    "pop_under_50": 204526,
+    "estimated_proton_eligible": 193.1,
+    "rate_per_100k": 66.6
+  },
+  "Leon County": {
+    "fips": "12073",
+    "total_pop": 16894,
+    "pop_50_plus": 88876,
+    "pop_under_50": 0,
+    "estimated_proton_eligible": 168.9,
+    "rate_per_100k": 999.6
+  },
+  "Hendry County": {
+    "fips": "12051",
+    "total_pop": 48276,
+    "pop_50_plus": 13084,
+    "pop_under_50": 35192,
+    "estimated_proton_eligible": 30.1,
+    "rate_per_100k": 62.4
+  },
+  "Orange County": {
+    "fips": "12095",
+    "total_pop": 40083,
+    "pop_50_plus": 454343,
+    "pop_under_50": 0,
+    "estimated_proton_eligible": 863.3,
+    "rate_per_100k": 2153.7
+  },
+  "Osceola County": {
+    "fips": "12097",
+    "total_pop": 23516,
+    "pop_50_plus": 132296,
+    "pop_under_50": 0,
+    "estimated_proton_eligible": 251.4,
+    "rate_per_100k": 1068.9
+  },
+  "Baker County": {
+    "fips": "12003",
+    "total_pop": 16658,
+    "pop_50_plus": 9561,
+    "pop_under_50": 7097,
+    "estimated_proton_eligible": 19.2,
+    "rate_per_100k": 115.4
+  },
+  "Duval County": {
+    "fips": "12031",
+    "total_pop": 9402,
+    "pop_50_plus": 344166,
+    "pop_under_50": 0,
+    "estimated_proton_eligible": 653.9,
+    "rate_per_100k": 6955.1
+  },
+  "Hillsborough County": {
+    "fips": "12057",
+    "total_pop": 433415,
+    "pop_50_plus": 511074,
+    "pop_under_50": 0,
+    "estimated_proton_eligible": 971.0,
+    "rate_per_100k": 224.0
+  },
+  "Hardee County": {
+    "fips": "12049",
+    "total_pop": 25932,
+    "pop_50_plus": 8640,
+    "pop_under_50": 17292,
+    "estimated_proton_eligible": 19.0,
+    "rate_per_100k": 73.3
+  },
+  "Okaloosa County": {
+    "fips": "12091",
+    "total_pop": 221810,
+    "pop_50_plus": 75575,
+    "pop_under_50": 146235,
+    "estimated_proton_eligible": 165.5,
+    "rate_per_100k": 74.6
+  },
+  "Liberty County": {
+    "fips": "12077",
+    "total_pop": 121364,
+    "pop_50_plus": 2700,
+    "pop_under_50": 118664,
+    "estimated_proton_eligible": 22.9,
+    "rate_per_100k": 18.9
+  },
+  "Seminole County": {
+    "fips": "12117",
+    "total_pop": 23441,
+    "pop_50_plus": 172602,
+    "pop_under_50": 0,
+    "estimated_proton_eligible": 327.9,
+    "rate_per_100k": 1399.0
+  },
+  "Union County": {
+    "fips": "12125",
+    "total_pop": 21450,
+    "pop_50_plus": 5681,
+    "pop_under_50": 15769,
+    "estimated_proton_eligible": 13.2,
+    "rate_per_100k": 61.3
+  },
+  "Escambia County": {
+    "fips": "12033",
+    "total_pop": 333834,
+    "pop_50_plus": 119355,
+    "pop_under_50": 214479,
+    "estimated_proton_eligible": 258.9,
+    "rate_per_100k": 77.6
+  },
+  "Bradford County": {
+    "fips": "12007",
+    "total_pop": 59600,
+    "pop_50_plus": 10351,
+    "pop_under_50": 49249,
+    "estimated_proton_eligible": 27.1,
+    "rate_per_100k": 45.4
+  },
+  "Polk County": {
+    "fips": "12105",
+    "total_pop": 45803,
+    "pop_50_plus": 294012,
+    "pop_under_50": 0,
+    "estimated_proton_eligible": 558.6,
+    "rate_per_100k": 1219.6
+  },
+  "Santa Rosa County": {
+    "fips": "12113",
+    "total_pop": 211115,
+    "pop_50_plus": 73912,
+    "pop_under_50": 137203,
+    "estimated_proton_eligible": 161.0,
+    "rate_per_100k": 76.3
+  },
+  "Wakulla County": {
+    "fips": "12129",
+    "total_pop": 38089,
+    "pop_50_plus": 13164,
+    "pop_under_50": 24925,
+    "estimated_proton_eligible": 28.8,
+    "rate_per_100k": 75.5
+  },
+  "Miami-Dade County": {
+    "fips": "12086",
+    "total_pop": 2802029,
+    "pop_50_plus": 1021656,
+    "pop_under_50": 1780373,
+    "estimated_proton_eligible": 2208.2,
+    "rate_per_100k": 78.8
+  },
+  "Clay County": {
+    "fips": "12019",
+    "total_pop": 7538,
+    "pop_50_plus": 85343,
+    "pop_under_50": 0,
+    "estimated_proton_eligible": 162.2,
+    "rate_per_100k": 2151.1
+  },
+  "Broward County": {
+    "fips": "12011",
+    "total_pop": 2013317,
+    "pop_50_plus": 759890,
+    "pop_under_50": 1253427,
+    "estimated_proton_eligible": 1631.8,
+    "rate_per_100k": 81.1
+  },
+  "Bay County": {
+    "fips": "12005",
+    "total_pop": 102123,
+    "pop_50_plus": 73075,
+    "pop_under_50": 29048,
+    "estimated_proton_eligible": 143.2,
+    "rate_per_100k": 140.2
+  },
+  "Calhoun County": {
+    "fips": "12013",
+    "total_pop": 5978,
+    "pop_50_plus": 5295,
+    "pop_under_50": 683,
+    "estimated_proton_eligible": 10.2,
+    "rate_per_100k": 170.0
+  },
+  "Hamilton County": {
+    "fips": "12047",
+    "total_pop": 8680,
+    "pop_50_plus": 5340,
+    "pop_under_50": 3340,
+    "estimated_proton_eligible": 10.6,
+    "rate_per_100k": 122.7
+  },
+  "Washington County": {
+    "fips": "12133",
+    "total_pop": 139238,
+    "pop_50_plus": 10038,
+    "pop_under_50": 129200,
+    "estimated_proton_eligible": 38.5,
+    "rate_per_100k": 27.6
+  },
+  "Lafayette County": {
+    "fips": "12067",
+    "total_pop": 17478,
+    "pop_50_plus": 3213,
+    "pop_under_50": 14265,
+    "estimated_proton_eligible": 8.2,
+    "rate_per_100k": 47.2
+  },
+  "Columbia County": {
+    "fips": "12023",
+    "total_pop": 58132,
+    "pop_50_plus": 28398,
+    "pop_under_50": 29734,
+    "estimated_proton_eligible": 58.4,
+    "rate_per_100k": 100.5
+  },
+  "Jackson County": {
+    "fips": "12063",
+    "total_pop": 20999,
+    "pop_50_plus": 19205,
+    "pop_under_50": 1794,
+    "estimated_proton_eligible": 36.8,
+    "rate_per_100k": 175.0
+  },
+  "Okeechobee County": {
+    "fips": "12093",
+    "total_pop": 42608,
+    "pop_50_plus": 16305,
+    "pop_under_50": 26303,
+    "estimated_proton_eligible": 34.9,
+    "rate_per_100k": 82.0
+  },
+  "Gadsden County": {
+    "fips": "12039",
+    "total_pop": 44298,
+    "pop_50_plus": 17742,
+    "pop_under_50": 26556,
+    "estimated_proton_eligible": 37.7,
+    "rate_per_100k": 85.1
+  },
+  "Taylor County": {
+    "fips": "12123",
+    "total_pop": 20118,
+    "pop_50_plus": 8828,
+    "pop_under_50": 11290,
+    "estimated_proton_eligible": 18.5,
+    "rate_per_100k": 91.8
+  },
+  "Pasco County": {
+    "fips": "12101",
+    "total_pop": 674516,
+    "pop_50_plus": 255731,
+    "pop_under_50": 418785,
+    "estimated_proton_eligible": 548.7,
+    "rate_per_100k": 81.3
+  },
+  "Suwannee County": {
+    "fips": "12121",
+    "total_pop": 48149,
+    "pop_50_plus": 18976,
+    "pop_under_50": 29173,
+    "estimated_proton_eligible": 40.4,
+    "rate_per_100k": 84.0
+  },
+  "DeSoto County": {
+    "fips": "12027",
+    "total_pop": 197918,
+    "pop_50_plus": 14859,
+    "pop_under_50": 183059,
+    "estimated_proton_eligible": 55.7,
+    "rate_per_100k": 28.1
+  },
+  "Gilchrist County": {
+    "fips": "12041",
+    "total_pop": 20488,
+    "pop_50_plus": 7990,
+    "pop_under_50": 12498,
+    "estimated_proton_eligible": 17.1,
+    "rate_per_100k": 83.2
+  },
+  "St. Johns County": {
+    "fips": "12109",
+    "total_pop": 346328,
+    "pop_50_plus": 128771,
+    "pop_under_50": 217557,
+    "estimated_proton_eligible": 277.3,
+    "rate_per_100k": 80.1
+  },
+  "Holmes County": {
+    "fips": "12059",
+    "total_pop": 44970,
+    "pop_50_plus": 8210,
+    "pop_under_50": 36760,
+    "estimated_proton_eligible": 21.1,
+    "rate_per_100k": 46.9
+  },
+  "Walton County": {
+    "fips": "12131",
+    "total_pop": 112696,
+    "pop_50_plus": 34978,
+    "pop_under_50": 77718,
+    "estimated_proton_eligible": 78.1,
+    "rate_per_100k": 69.3
+  },
+  "Madison County": {
+    "fips": "12079",
+    "total_pop": 14237,
+    "pop_50_plus": 7990,
+    "pop_under_50": 6247,
+    "estimated_proton_eligible": 16.1,
+    "rate_per_100k": 113.2
+  },
+  "Putnam County": {
+    "fips": "12107",
+    "total_pop": 56885,
+    "pop_50_plus": 33280,
+    "pop_under_50": 23605,
+    "estimated_proton_eligible": 66.8,
+    "rate_per_100k": 117.4
+  },
+  "Palm Beach County": {
+    "fips": "12099",
+    "total_pop": 1575726,
+    "pop_50_plus": 682875,
+    "pop_under_50": 892851,
+    "estimated_proton_eligible": 1431.4,
+    "rate_per_100k": 90.8
+  },
+  "St. Lucie County": {
+    "fips": "12111",
+    "total_pop": 402449,
+    "pop_50_plus": 160473,
+    "pop_under_50": 241976,
+    "estimated_proton_eligible": 341.2,
+    "rate_per_100k": 84.8
+  },
+  "Nassau County": {
+    "fips": "12089",
+    "total_pop": 1398939,
+    "pop_50_plus": 45158,
+    "pop_under_50": 1353781,
+    "estimated_proton_eligible": 288.9,
+    "rate_per_100k": 20.6
+  },
+  "Dixie County": {
+    "fips": "12029",
+    "total_pop": 18038,
+    "pop_50_plus": 7885,
+    "pop_under_50": 10153,
+    "estimated_proton_eligible": 16.5,
+    "rate_per_100k": 91.5
+  },
+  "Glades County": {
+    "fips": "12043",
+    "total_pop": 13270,
+    "pop_50_plus": 5807,
+    "pop_under_50": 7463,
+    "estimated_proton_eligible": 12.2,
+    "rate_per_100k": 91.6
+  },
+  "Gulf County": {
+    "fips": "12045",
+    "total_pop": 15943,
+    "pop_50_plus": 6988,
+    "pop_under_50": 8955,
+    "estimated_proton_eligible": 14.6,
+    "rate_per_100k": 91.7
+  },
+  "Lake County": {
+    "fips": "12069",
+    "total_pop": 6249,
+    "pop_50_plus": 190773,
+    "pop_under_50": 0,
+    "estimated_proton_eligible": 362.5,
+    "rate_per_100k": 5800.4
+  },
+  "Levy County": {
+    "fips": "12075",
+    "total_pop": 48520,
+    "pop_50_plus": 21080,
+    "pop_under_50": 27440,
+    "estimated_proton_eligible": 44.2,
+    "rate_per_100k": 91.0
+  },
+  "Volusia County": {
+    "fips": "12127",
+    "total_pop": 606573,
+    "pop_50_plus": 269705,
+    "pop_under_50": 336868,
+    "estimated_proton_eligible": 563.0,
+    "rate_per_100k": 92.8
+  },
+  "Brevard County": {
+    "fips": "12009",
+    "total_pop": 663982,
+    "pop_50_plus": 294583,
+    "pop_under_50": 369399,
+    "estimated_proton_eligible": 615.1,
+    "rate_per_100k": 92.6
+  },
+  "Hernando County": {
+    "fips": "12053",
+    "total_pop": 221701,
+    "pop_50_plus": 97622,
+    "pop_under_50": 124079,
+    "estimated_proton_eligible": 204.1,
+    "rate_per_100k": 92.1
+  },
+  "Jefferson County": {
+    "fips": "12065",
+    "total_pop": 86505,
+    "pop_50_plus": 7191,
+    "pop_under_50": 79314,
+    "estimated_proton_eligible": 25.6,
+    "rate_per_100k": 29.5
+  },
+  "Marion County": {
+    "fips": "12083",
+    "total_pop": 55584,
+    "pop_50_plus": 192109,
+    "pop_under_50": 0,
+    "estimated_proton_eligible": 365.0,
+    "rate_per_100k": 656.7
+  },
+  "Monroe County": {
+    "fips": "12087",
+    "total_pop": 46572,
+    "pop_50_plus": 39971,
+    "pop_under_50": 6601,
+    "estimated_proton_eligible": 76.9,
+    "rate_per_100k": 165.2
+  },
+  "Pinellas County": {
+    "fips": "12103",
+    "total_pop": 948563,
+    "pop_50_plus": 471378,
+    "pop_under_50": 477185,
+    "estimated_proton_eligible": 967.2,
+    "rate_per_100k": 102.0
+  },
+  "Lee County": {
+    "fips": "12071",
+    "total_pop": 21642,
+    "pop_50_plus": 400251,
+    "pop_under_50": 0,
+    "estimated_proton_eligible": 760.5,
+    "rate_per_100k": 3513.9
+  },
+  "Manatee County": {
+    "fips": "12081",
+    "total_pop": 468200,
+    "pop_50_plus": 212915,
+    "pop_under_50": 255285,
+    "estimated_proton_eligible": 442.8,
+    "rate_per_100k": 94.6
+  },
+  "Franklin County": {
+    "fips": "12037",
+    "total_pop": 102612,
+    "pop_50_plus": 6291,
+    "pop_under_50": 96321,
+    "estimated_proton_eligible": 26.4,
+    "rate_per_100k": 25.7
+  },
+  "Collier County": {
+    "fips": "12021",
+    "total_pop": 417131,
+    "pop_50_plus": 213578,
+    "pop_under_50": 203553,
+    "estimated_proton_eligible": 436.3,
+    "rate_per_100k": 104.6
+  },
+  "Flagler County": {
+    "fips": "12035",
+    "total_pop": 140360,
+    "pop_50_plus": 67860,
+    "pop_under_50": 72500,
+    "estimated_proton_eligible": 139.8,
+    "rate_per_100k": 99.6
+  },
+  "Martin County": {
+    "fips": "12085",
+    "total_pop": 5284,
+    "pop_50_plus": 87201,
+    "pop_under_50": 0,
+    "estimated_proton_eligible": 165.7,
+    "rate_per_100k": 3135.5
+  },
+  "Highlands County": {
+    "fips": "12055",
+    "total_pop": 111122,
+    "pop_50_plus": 57453,
+    "pop_under_50": 53669,
+    "estimated_proton_eligible": 117.2,
+    "rate_per_100k": 105.5
+  },
+  "Indian River County": {
+    "fips": "12061",
+    "total_pop": 172799,
+    "pop_50_plus": 93388,
+    "pop_under_50": 79411,
+    "estimated_proton_eligible": 189.3,
+    "rate_per_100k": 109.6
+  },
+  "Citrus County": {
+    "fips": "12017",
+    "total_pop": 171666,
+    "pop_50_plus": 94619,
+    "pop_under_50": 77047,
+    "estimated_proton_eligible": 191.3,
+    "rate_per_100k": 111.5
+  },
+  "Sarasota County": {
+    "fips": "12115",
+    "total_pop": 479958,
+    "pop_50_plus": 269579,
+    "pop_under_50": 210379,
+    "estimated_proton_eligible": 543.8,
+    "rate_per_100k": 113.3
+  },
+  "Charlotte County": {
+    "fips": "12015",
+    "total_pop": 11401,
+    "pop_50_plus": 127206,
+    "pop_under_50": 0,
+    "estimated_proton_eligible": 241.7,
+    "rate_per_100k": 2119.9
+  },
+  "Sumter County": {
+    "fips": "12119",
+    "total_pop": 105067,
+    "pop_50_plus": 108186,
+    "pop_under_50": 0,
+    "estimated_proton_eligible": 205.6,
+    "rate_per_100k": 195.6
+  }
+}

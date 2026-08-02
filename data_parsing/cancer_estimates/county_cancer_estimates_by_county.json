@@ -1,0 +1,1945 @@
+[
+  {
+    "county": "FLAlachua County",
+    "cancerRates": {
+      "AllCancers": 1338.769248,
+      "LungAndBronchus": 138.92341199999998,
+      "Prostate": 369.205644,
+      "Breast": 380.226708,
+      "Colorectal": 94.2591,
+      "Bladder": 49.59478800000001,
+      "HeadAndNeck": 52.49506800000001,
+      "NonHodgkin": 50.46487199999999,
+      "Melanoma": 110.500668,
+      "Ovary": 20.30196,
+      "Cervix": 24.942407999999997
+    },
+    "protonEligible": {
+      "AllCancers": 200.8153872,
+      "LungAndBronchus": 24.311597099999997,
+      "Prostate": 110.7616932,
+      "Breast": 66.5396739,
+      "Colorectal": 3.2990685000000006,
+      "Bladder": 3.7196091000000004,
+      "HeadAndNeck": 26.247534000000005,
+      "NonHodgkin": 6.308108999999999,
+      "Melanoma": 4.42002672,
+      "Ovary": 0.3045294,
+      "Cervix": 3.741361199999999
+    }
+  },
+  {
+    "county": "FLBaker County",
+    "cancerRates": {
+      "AllCancers": 182.139125,
+      "LungAndBronchus": 28.339361,
+      "Prostate": 22.064854,
+      "Breast": 44.754185,
+      "Colorectal": 9.575314,
+      "Bladder": 0,
+      "HeadAndNeck": 8.831889,
+      "NonHodgkin": 0,
+      "Melanoma": 16.622983,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 27.32086875,
+      "LungAndBronchus": 4.959388175,
+      "Prostate": 6.6194562,
+      "Breast": 7.831982374999999,
+      "Colorectal": 0.33513599000000005,
+      "Bladder": 0.0,
+      "HeadAndNeck": 4.4159445,
+      "NonHodgkin": 0.0,
+      "Melanoma": 0.6649193200000001,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLBay County",
+    "cancerRates": {
+      "AllCancers": 1004.605327,
+      "LungAndBronchus": 117.166467,
+      "Prostate": 215.316387,
+      "Breast": 281.36310399999996,
+      "Colorectal": 90.58419699999999,
+      "Bladder": 38.033094000000006,
+      "HeadAndNeck": 34.965909,
+      "NonHodgkin": 32.921119000000004,
+      "Melanoma": 75.65723,
+      "Ovary": 36.192783,
+      "Cervix": 26.173312000000003
+    },
+    "protonEligible": {
+      "AllCancers": 150.69079904999998,
+      "LungAndBronchus": 20.504131724999997,
+      "Prostate": 64.59491609999999,
+      "Breast": 49.23854319999999,
+      "Colorectal": 3.170446895,
+      "Bladder": 2.8524820500000003,
+      "HeadAndNeck": 17.4829545,
+      "NonHodgkin": 4.115139875000001,
+      "Melanoma": 3.0262892,
+      "Ovary": 0.5428917449999999,
+      "Cervix": 3.9259968
+    }
+  },
+  {
+    "county": "FLBradford County",
+    "cancerRates": {
+      "AllCancers": 135.36407400000002,
+      "LungAndBronchus": 16.446367,
+      "Prostate": 32.977655,
+      "Breast": 31.250928000000002,
+      "Colorectal": 9.256389,
+      "Bladder": 0,
+      "HeadAndNeck": 0,
+      "NonHodgkin": 0,
+      "Melanoma": 0,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 20.304611100000002,
+      "LungAndBronchus": 2.8781142249999996,
+      "Prostate": 9.8932965,
+      "Breast": 5.4689124,
+      "Colorectal": 0.32397361500000005,
+      "Bladder": 0.0,
+      "HeadAndNeck": 0.0,
+      "NonHodgkin": 0.0,
+      "Melanoma": 0.0,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLBrevard County",
+    "cancerRates": {
+      "AllCancers": 3188.4415639999997,
+      "LungAndBronchus": 329.999054,
+      "Prostate": 620.1591880000001,
+      "Breast": 831.305464,
+      "Colorectal": 237.04157400000003,
+      "Bladder": 124.828616,
+      "HeadAndNeck": 141.428166,
+      "NonHodgkin": 167.323464,
+      "Melanoma": 364.526118,
+      "Ovary": 73.70200200000001,
+      "Cervix": 70.382092
+    },
+    "protonEligible": {
+      "AllCancers": 478.26623459999996,
+      "LungAndBronchus": 57.749834449999994,
+      "Prostate": 186.04775640000003,
+      "Breast": 145.47845619999998,
+      "Colorectal": 8.296455090000002,
+      "Bladder": 9.3621462,
+      "HeadAndNeck": 70.714083,
+      "NonHodgkin": 20.915433,
+      "Melanoma": 14.58104472,
+      "Ovary": 1.1055300300000002,
+      "Cervix": 10.5573138
+    }
+  },
+  {
+    "county": "FLBroward County",
+    "cancerRates": {
+      "AllCancers": 8600.890223999999,
+      "LungAndBronchus": 827.473287,
+      "Prostate": 1942.850905,
+      "Breast": 2556.91259,
+      "Colorectal": 769.0870940000001,
+      "Bladder": 306.024184,
+      "HeadAndNeck": 306.024184,
+      "NonHodgkin": 380.516913,
+      "Melanoma": 450.983008,
+      "Ovary": 221.46487,
+      "Cervix": 187.238481
+    },
+    "protonEligible": {
+      "AllCancers": 1290.1335335999997,
+      "LungAndBronchus": 144.807825225,
+      "Prostate": 582.8552715,
+      "Breast": 447.45970324999996,
+      "Colorectal": 26.918048290000005,
+      "Bladder": 22.9518138,
+      "HeadAndNeck": 153.012092,
+      "NonHodgkin": 47.564614125,
+      "Melanoma": 18.039320319999998,
+      "Ovary": 3.3219730499999995,
+      "Cervix": 28.08577215
+    }
+  },
+  {
+    "county": "FLCalhoun County",
+    "cancerRates": {
+      "AllCancers": 51.361985,
+      "LungAndBronchus": 7.229216,
+      "Prostate": 0,
+      "Breast": 0,
+      "Colorectal": 9.926883,
+      "Bladder": 0,
+      "HeadAndNeck": 0,
+      "NonHodgkin": 0,
+      "Melanoma": 0,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 7.704297749999999,
+      "LungAndBronchus": 1.2651128,
+      "Prostate": 0.0,
+      "Breast": 0.0,
+      "Colorectal": 0.347440905,
+      "Bladder": 0.0,
+      "HeadAndNeck": 0.0,
+      "NonHodgkin": 0.0,
+      "Melanoma": 0.0,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLCharlotte County",
+    "cancerRates": {
+      "AllCancers": 1146.010512,
+      "LungAndBronchus": 109.25763599999999,
+      "Prostate": 192.88425599999997,
+      "Breast": 259.56834,
+      "Colorectal": 99.265884,
+      "Bladder": 46.917792,
+      "HeadAndNeck": 41.921916,
+      "NonHodgkin": 66.24966,
+      "Melanoma": 99.265884,
+      "Ovary": 28.889196000000002,
+      "Cervix": 28.454772
+    },
+    "protonEligible": {
+      "AllCancers": 171.90157680000002,
+      "LungAndBronchus": 19.120086299999997,
+      "Prostate": 57.86527679999999,
+      "Breast": 45.42445949999999,
+      "Colorectal": 3.4743059400000003,
+      "Bladder": 3.5188344,
+      "HeadAndNeck": 20.960958,
+      "NonHodgkin": 8.2812075,
+      "Melanoma": 3.97063536,
+      "Ovary": 0.43333794000000003,
+      "Cervix": 4.268215799999999
+    }
+  },
+  {
+    "county": "FLCitrus County",
+    "cancerRates": {
+      "AllCancers": 1011.627738,
+      "LungAndBronchus": 126.861174,
+      "Prostate": 199.647558,
+      "Breast": 251.49069,
+      "Colorectal": 60.769763999999995,
+      "Bladder": 40.34151,
+      "HeadAndNeck": 41.714838,
+      "NonHodgkin": 43.946496,
+      "Melanoma": 60.769763999999995,
+      "Ovary": 25.578234,
+      "Cervix": 37.079856
+    },
+    "protonEligible": {
+      "AllCancers": 151.7441607,
+      "LungAndBronchus": 22.20070545,
+      "Prostate": 59.8942674,
+      "Breast": 44.010870749999995,
+      "Colorectal": 2.12694174,
+      "Bladder": 3.0256132499999997,
+      "HeadAndNeck": 20.857419,
+      "NonHodgkin": 5.493312,
+      "Melanoma": 2.4307905599999997,
+      "Ovary": 0.38367350999999994,
+      "Cervix": 5.5619784
+    }
+  },
+  {
+    "county": "FLClay County",
+    "cancerRates": {
+      "AllCancers": 1231.987206,
+      "LungAndBronchus": 159.80853100000002,
+      "Prostate": 174.90289,
+      "Breast": 353.63926799999996,
+      "Colorectal": 89.12859600000002,
+      "Bladder": 51.75208800000001,
+      "HeadAndNeck": 39.772438,
+      "NonHodgkin": 57.26272699999999,
+      "Melanoma": 83.61795699999999,
+      "Ovary": 26.834415999999997,
+      "Cervix": 21.56337
+    },
+    "protonEligible": {
+      "AllCancers": 184.7980809,
+      "LungAndBronchus": 27.966492925,
+      "Prostate": 52.470867000000005,
+      "Breast": 61.88687189999999,
+      "Colorectal": 3.119500860000001,
+      "Bladder": 3.8814066000000005,
+      "HeadAndNeck": 19.886219,
+      "NonHodgkin": 7.157840874999999,
+      "Melanoma": 3.3447182799999995,
+      "Ovary": 0.40251623999999997,
+      "Cervix": 3.2345054999999996
+    }
+  },
+  {
+    "county": "FLCollier County",
+    "cancerRates": {
+      "AllCancers": 1807.0114919999999,
+      "LungAndBronchus": 131.813396,
+      "Prostate": 473.02655400000003,
+      "Breast": 497.22015200000004,
+      "Colorectal": 133.064789,
+      "Bladder": 68.826615,
+      "HeadAndNeck": 61.318256999999996,
+      "NonHodgkin": 93.43734399999998,
+      "Melanoma": 186.87468799999996,
+      "Ovary": 34.621873,
+      "Cervix": 41.7131
+    },
+    "protonEligible": {
+      "AllCancers": 271.0517238,
+      "LungAndBronchus": 23.067344300000002,
+      "Prostate": 141.9079662,
+      "Breast": 87.0135266,
+      "Colorectal": 4.657267615,
+      "Bladder": 5.161996125,
+      "HeadAndNeck": 30.659128499999998,
+      "NonHodgkin": 11.679667999999998,
+      "Melanoma": 7.474987519999999,
+      "Ovary": 0.519328095,
+      "Cervix": 6.256964999999999
+    }
+  },
+  {
+    "county": "FLColumbia County",
+    "cancerRates": {
+      "AllCancers": 368.098992,
+      "LungAndBronchus": 47.938818,
+      "Prostate": 72.538026,
+      "Breast": 100.471464,
+      "Colorectal": 28.600284,
+      "Bladder": 15.55974,
+      "HeadAndNeck": 23.858268000000002,
+      "NonHodgkin": 15.856115999999998,
+      "Melanoma": 23.117327999999997,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 55.2148488,
+      "LungAndBronchus": 8.389293149999999,
+      "Prostate": 21.7614078,
+      "Breast": 17.582506199999997,
+      "Colorectal": 1.00100994,
+      "Bladder": 1.1669805,
+      "HeadAndNeck": 11.929134000000001,
+      "NonHodgkin": 1.9820144999999998,
+      "Melanoma": 0.9246931199999999,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLDeSoto County",
+    "cancerRates": {
+      "AllCancers": 146.23563199999998,
+      "LungAndBronchus": 29.032073999999998,
+      "Prostate": 37.115078,
+      "Breast": 39.154368,
+      "Colorectal": 16.425553999999998,
+      "Bladder": 0,
+      "HeadAndNeck": 9.2695,
+      "NonHodgkin": 0,
+      "Melanoma": 0,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 21.935344799999996,
+      "LungAndBronchus": 5.080612949999999,
+      "Prostate": 11.134523399999999,
+      "Breast": 6.852014399999999,
+      "Colorectal": 0.57489439,
+      "Bladder": 0.0,
+      "HeadAndNeck": 4.63475,
+      "NonHodgkin": 0.0,
+      "Melanoma": 0.0,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLDixie County",
+    "cancerRates": {
+      "AllCancers": 78.122578,
+      "LungAndBronchus": 15.51268,
+      "Prostate": 17.460784,
+      "Breast": 19.012052,
+      "Colorectal": 6.547793999999999,
+      "Bladder": 0,
+      "HeadAndNeck": 0,
+      "NonHodgkin": 0,
+      "Melanoma": 0,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 11.7183867,
+      "LungAndBronchus": 2.7147189999999997,
+      "Prostate": 5.2382352,
+      "Breast": 3.3271091,
+      "Colorectal": 0.22917279,
+      "Bladder": 0.0,
+      "HeadAndNeck": 0.0,
+      "NonHodgkin": 0.0,
+      "Melanoma": 0.0,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLDuval County",
+    "cancerRates": {
+      "AllCancers": 5432.803893000001,
+      "LungAndBronchus": 674.981505,
+      "Prostate": 983.240775,
+      "Breast": 1572.1222770000002,
+      "Colorectal": 435.81483,
+      "Bladder": 184.955562,
+      "HeadAndNeck": 218.970378,
+      "NonHodgkin": 231.72593400000002,
+      "Melanoma": 476.207424,
+      "Ovary": 140.311116,
+      "Cervix": 119.051856
+    },
+    "protonEligible": {
+      "AllCancers": 814.9205839500002,
+      "LungAndBronchus": 118.12176337499999,
+      "Prostate": 294.97223249999996,
+      "Breast": 275.12139847500003,
+      "Colorectal": 15.253519050000001,
+      "Bladder": 13.871667149999999,
+      "HeadAndNeck": 109.485189,
+      "NonHodgkin": 28.965741750000003,
+      "Melanoma": 19.048296960000002,
+      "Ovary": 2.10466674,
+      "Cervix": 17.8577784
+    }
+  },
+  {
+    "county": "FLEscambia County",
+    "cancerRates": {
+      "AllCancers": 2016.691194,
+      "LungAndBronchus": 244.03265399999998,
+      "Prostate": 528.4592220000001,
+      "Breast": 456.351078,
+      "Colorectal": 149.55763199999998,
+      "Bladder": 78.784824,
+      "HeadAndNeck": 75.780318,
+      "NonHodgkin": 107.160714,
+      "Melanoma": 239.02514399999998,
+      "Ovary": 29.711226,
+      "Cervix": 58.087115999999995
+    },
+    "protonEligible": {
+      "AllCancers": 302.5036791,
+      "LungAndBronchus": 42.705714449999995,
+      "Prostate": 158.53776660000003,
+      "Breast": 79.86143865,
+      "Colorectal": 5.23451712,
+      "Bladder": 5.9088617999999995,
+      "HeadAndNeck": 37.890159,
+      "NonHodgkin": 13.39508925,
+      "Melanoma": 9.561005759999999,
+      "Ovary": 0.44566838999999997,
+      "Cervix": 8.713067399999998
+    }
+  },
+  {
+    "county": "FLFlagler County",
+    "cancerRates": {
+      "AllCancers": 797.80624,
+      "LungAndBronchus": 85.6196,
+      "Prostate": 177.27468,
+      "Breast": 166.46696,
+      "Colorectal": 48.00312,
+      "Bladder": 33.40568,
+      "HeadAndNeck": 29.75632,
+      "NonHodgkin": 42.52908,
+      "Melanoma": 73.54864,
+      "Ovary": 11.64988,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 119.670936,
+      "LungAndBronchus": 14.98343,
+      "Prostate": 53.182404,
+      "Breast": 29.131718,
+      "Colorectal": 1.6801092000000002,
+      "Bladder": 2.5054259999999995,
+      "HeadAndNeck": 14.87816,
+      "NonHodgkin": 5.316135,
+      "Melanoma": 2.9419456000000004,
+      "Ovary": 0.1747482,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLFranklin County",
+    "cancerRates": {
+      "AllCancers": 45.106398,
+      "LungAndBronchus": 0,
+      "Prostate": 13.797711000000001,
+      "Breast": 19.139601000000003,
+      "Colorectal": 0,
+      "Bladder": 0,
+      "HeadAndNeck": 0,
+      "NonHodgkin": 0,
+      "Melanoma": 0,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 6.7659597,
+      "LungAndBronchus": 0.0,
+      "Prostate": 4.1393133,
+      "Breast": 3.349430175,
+      "Colorectal": 0.0,
+      "Bladder": 0.0,
+      "HeadAndNeck": 0.0,
+      "NonHodgkin": 0.0,
+      "Melanoma": 0.0,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLGadsden County",
+    "cancerRates": {
+      "AllCancers": 249.707826,
+      "LungAndBronchus": 25.072668000000004,
+      "Prostate": 85.05216,
+      "Breast": 62.770266,
+      "Colorectal": 23.03496,
+      "Bladder": 7.97364,
+      "HeadAndNeck": 9.52407,
+      "NonHodgkin": 11.207394,
+      "Melanoma": 0,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 37.4561739,
+      "LungAndBronchus": 4.3877169,
+      "Prostate": 25.515648,
+      "Breast": 10.984796549999999,
+      "Colorectal": 0.8062236000000002,
+      "Bladder": 0.598023,
+      "HeadAndNeck": 4.762035,
+      "NonHodgkin": 1.40092425,
+      "Melanoma": 0.0,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLGilchrist County",
+    "cancerRates": {
+      "AllCancers": 96.764824,
+      "LungAndBronchus": 13.62452,
+      "Prostate": 22.762168,
+      "Breast": 22.5368,
+      "Colorectal": 0,
+      "Bladder": 0,
+      "HeadAndNeck": 0,
+      "NonHodgkin": 0,
+      "Melanoma": 0,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 14.5147236,
+      "LungAndBronchus": 2.3842909999999997,
+      "Prostate": 6.8286504,
+      "Breast": 3.9439399999999996,
+      "Colorectal": 0.0,
+      "Bladder": 0.0,
+      "HeadAndNeck": 0.0,
+      "NonHodgkin": 0.0,
+      "Melanoma": 0.0,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLGlades County",
+    "cancerRates": {
+      "AllCancers": 52.74825,
+      "LungAndBronchus": 5.069140000000001,
+      "Prostate": 0,
+      "Breast": 0,
+      "Colorectal": 0,
+      "Bladder": 0,
+      "HeadAndNeck": 0,
+      "NonHodgkin": 0,
+      "Melanoma": 11.70414,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 7.9122375,
+      "LungAndBronchus": 0.8870995,
+      "Prostate": 0.0,
+      "Breast": 0.0,
+      "Colorectal": 0.0,
+      "Bladder": 0.0,
+      "HeadAndNeck": 0.0,
+      "NonHodgkin": 0.0,
+      "Melanoma": 0.4681656,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLGulf County",
+    "cancerRates": {
+      "AllCancers": 76.127825,
+      "LungAndBronchus": 10.920955,
+      "Prostate": 0,
+      "Breast": 29.669922999999997,
+      "Colorectal": 0,
+      "Bladder": 0,
+      "HeadAndNeck": 0,
+      "NonHodgkin": 0,
+      "Melanoma": 0,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 11.41917375,
+      "LungAndBronchus": 1.9111671249999997,
+      "Prostate": 0.0,
+      "Breast": 5.192236524999999,
+      "Colorectal": 0.0,
+      "Bladder": 0.0,
+      "HeadAndNeck": 0.0,
+      "NonHodgkin": 0.0,
+      "Melanoma": 0.0,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLHamilton County",
+    "cancerRates": {
+      "AllCancers": 67.93638,
+      "LungAndBronchus": 12.52094,
+      "Prostate": 15.90996,
+      "Breast": 0,
+      "Colorectal": 8.7916,
+      "Bladder": 0,
+      "HeadAndNeck": 0,
+      "NonHodgkin": 0,
+      "Melanoma": 0,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 10.190457,
+      "LungAndBronchus": 2.1911644999999997,
+      "Prostate": 4.772988,
+      "Breast": 0.0,
+      "Colorectal": 0.30770600000000004,
+      "Bladder": 0.0,
+      "HeadAndNeck": 0.0,
+      "NonHodgkin": 0.0,
+      "Melanoma": 0.0,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLHardee County",
+    "cancerRates": {
+      "AllCancers": 130.59355200000002,
+      "LungAndBronchus": 10.580255999999999,
+      "Prostate": 26.5803,
+      "Breast": 31.170264,
+      "Colorectal": 12.473291999999999,
+      "Bladder": 0,
+      "HeadAndNeck": 0,
+      "NonHodgkin": 11.358215999999999,
+      "Melanoma": 10.450595999999999,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 19.589032800000002,
+      "LungAndBronchus": 1.8515447999999997,
+      "Prostate": 7.97409,
+      "Breast": 5.4547962,
+      "Colorectal": 0.43656522000000003,
+      "Bladder": 0.0,
+      "HeadAndNeck": 0.0,
+      "NonHodgkin": 1.4197769999999998,
+      "Melanoma": 0.41802384,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLHendry County",
+    "cancerRates": {
+      "AllCancers": 264.021444,
+      "LungAndBronchus": 33.55182,
+      "Prostate": 41.75874,
+      "Breast": 55.420848,
+      "Colorectal": 31.234572000000004,
+      "Bladder": 0,
+      "HeadAndNeck": 14.72418,
+      "NonHodgkin": 13.372452,
+      "Melanoma": 0,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 39.603216599999996,
+      "LungAndBronchus": 5.8715684999999995,
+      "Prostate": 12.527622000000001,
+      "Breast": 9.6986484,
+      "Colorectal": 1.0932100200000003,
+      "Bladder": 0.0,
+      "HeadAndNeck": 7.36209,
+      "NonHodgkin": 1.6715565,
+      "Melanoma": 0.0,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLHernando County",
+    "cancerRates": {
+      "AllCancers": 1295.842345,
+      "LungAndBronchus": 162.285132,
+      "Prostate": 266.0412,
+      "Breast": 342.084643,
+      "Colorectal": 79.147257,
+      "Bladder": 42.12319,
+      "HeadAndNeck": 44.3402,
+      "NonHodgkin": 63.184785,
+      "Melanoma": 87.350194,
+      "Ovary": 33.920253,
+      "Cervix": 22.835203000000003
+    },
+    "protonEligible": {
+      "AllCancers": 194.37635175,
+      "LungAndBronchus": 28.399898099999998,
+      "Prostate": 79.81236,
+      "Breast": 59.864812525,
+      "Colorectal": 2.7701539950000003,
+      "Bladder": 3.15923925,
+      "HeadAndNeck": 22.1701,
+      "NonHodgkin": 7.898098125,
+      "Melanoma": 3.49400776,
+      "Ovary": 0.5088037950000001,
+      "Cervix": 3.4252804500000003
+    }
+  },
+  {
+    "county": "FLHighlands County",
+    "cancerRates": {
+      "AllCancers": 491.937094,
+      "LungAndBronchus": 52.560705999999996,
+      "Prostate": 79.007742,
+      "Breast": 156.015288,
+      "Colorectal": 31.892014,
+      "Bladder": 22.2244,
+      "HeadAndNeck": 13.445762,
+      "NonHodgkin": 26.558158,
+      "Melanoma": 38.33709,
+      "Ovary": 18.001763999999998,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 73.7905641,
+      "LungAndBronchus": 9.198123549999998,
+      "Prostate": 23.7023226,
+      "Breast": 27.3026754,
+      "Colorectal": 1.1162204900000001,
+      "Bladder": 1.6668299999999998,
+      "HeadAndNeck": 6.722881,
+      "NonHodgkin": 3.31976975,
+      "Melanoma": 1.5334836000000003,
+      "Ovary": 0.27002645999999997,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLHillsborough County",
+    "cancerRates": {
+      "AllCancers": 8053.17234,
+      "LungAndBronchus": 865.76325,
+      "Prostate": 2120.3329049999998,
+      "Breast": 2170.704585,
+      "Colorectal": 665.8506449999999,
+      "Bladder": 283.3407,
+      "HeadAndNeck": 299.08185,
+      "NonHodgkin": 336.86061,
+      "Melanoma": 555.6625949999999,
+      "Ovary": 157.4115,
+      "Cervix": 154.26327
+    },
+    "protonEligible": {
+      "AllCancers": 1207.975851,
+      "LungAndBronchus": 151.50856875,
+      "Prostate": 636.0998715,
+      "Breast": 379.873302375,
+      "Colorectal": 23.304772574999998,
+      "Bladder": 21.2505525,
+      "HeadAndNeck": 149.540925,
+      "NonHodgkin": 42.10757625,
+      "Melanoma": 22.226503799999996,
+      "Ovary": 2.3611725,
+      "Cervix": 23.1394905
+    }
+  },
+  {
+    "county": "FLHolmes County",
+    "cancerRates": {
+      "AllCancers": 75.76815400000001,
+      "LungAndBronchus": 13.942466999999999,
+      "Prostate": 18.610075,
+      "Breast": 0,
+      "Colorectal": 0,
+      "Bladder": 0,
+      "HeadAndNeck": 0,
+      "NonHodgkin": 0,
+      "Melanoma": 0,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 11.365223100000001,
+      "LungAndBronchus": 2.4399317249999997,
+      "Prostate": 5.583022499999999,
+      "Breast": 0.0,
+      "Colorectal": 0.0,
+      "Bladder": 0.0,
+      "HeadAndNeck": 0.0,
+      "NonHodgkin": 0.0,
+      "Melanoma": 0.0,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLIndian River County",
+    "cancerRates": {
+      "AllCancers": 978.5607369999999,
+      "LungAndBronchus": 93.82985699999999,
+      "Prostate": 193.880478,
+      "Breast": 219.973127,
+      "Colorectal": 69.1196,
+      "Bladder": 37.842980999999995,
+      "HeadAndNeck": 46.65573,
+      "NonHodgkin": 52.530896,
+      "Melanoma": 130.117647,
+      "Ovary": 22.982267,
+      "Cervix": 21.945473
+    },
+    "protonEligible": {
+      "AllCancers": 146.78411054999998,
+      "LungAndBronchus": 16.420224974999996,
+      "Prostate": 58.1641434,
+      "Breast": 38.495297225,
+      "Colorectal": 2.4191860000000003,
+      "Bladder": 2.8382235749999993,
+      "HeadAndNeck": 23.327865,
+      "NonHodgkin": 6.566362,
+      "Melanoma": 5.204705880000001,
+      "Ovary": 0.344734005,
+      "Cervix": 3.29182095
+    }
+  },
+  {
+    "county": "FLJackson County",
+    "cancerRates": {
+      "AllCancers": 215.737263,
+      "LungAndBronchus": 27.742611,
+      "Prostate": 33.350688000000005,
+      "Breast": 55.733367,
+      "Colorectal": 21.985646999999997,
+      "Bladder": 11.067267,
+      "HeadAndNeck": 13.499088,
+      "NonHodgkin": 10.868750999999998,
+      "Melanoma": 0,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 32.36058945,
+      "LungAndBronchus": 4.854956925,
+      "Prostate": 10.0052064,
+      "Breast": 9.753339225,
+      "Colorectal": 0.769497645,
+      "Bladder": 0.8300450249999999,
+      "HeadAndNeck": 6.749544,
+      "NonHodgkin": 1.3585938749999997,
+      "Melanoma": 0.0,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLJefferson County",
+    "cancerRates": {
+      "AllCancers": 86.4378,
+      "LungAndBronchus": 12.629523,
+      "Prostate": 17.431623000000002,
+      "Breast": 24.074528000000004,
+      "Colorectal": 8.291625999999999,
+      "Bladder": 0,
+      "HeadAndNeck": 0,
+      "NonHodgkin": 0,
+      "Melanoma": 0,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 12.96567,
+      "LungAndBronchus": 2.210166525,
+      "Prostate": 5.2294869,
+      "Breast": 4.213042400000001,
+      "Colorectal": 0.29020691,
+      "Bladder": 0.0,
+      "HeadAndNeck": 0.0,
+      "NonHodgkin": 0.0,
+      "Melanoma": 0.0,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLLafayette County",
+    "cancerRates": {
+      "AllCancers": 29.637832000000003,
+      "LungAndBronchus": 0,
+      "Prostate": 0,
+      "Breast": 0,
+      "Colorectal": 0,
+      "Bladder": 0,
+      "HeadAndNeck": 0,
+      "NonHodgkin": 0,
+      "Melanoma": 0,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 4.4456748,
+      "LungAndBronchus": 0.0,
+      "Prostate": 0.0,
+      "Breast": 0.0,
+      "Colorectal": 0.0,
+      "Bladder": 0.0,
+      "HeadAndNeck": 0.0,
+      "NonHodgkin": 0.0,
+      "Melanoma": 0.0,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLLake County",
+    "cancerRates": {
+      "AllCancers": 2367.905056,
+      "LungAndBronchus": 241.71604,
+      "Prostate": 531.7752879999999,
+      "Breast": 634.8466559999999,
+      "Colorectal": 166.92088800000002,
+      "Bladder": 85.740784,
+      "HeadAndNeck": 95.77428,
+      "NonHodgkin": 108.088116,
+      "Melanoma": 181.058996,
+      "Ovary": 61.113112,
+      "Cervix": 31.012624
+    },
+    "protonEligible": {
+      "AllCancers": 355.1857584,
+      "LungAndBronchus": 42.300307,
+      "Prostate": 159.53258639999999,
+      "Breast": 111.09816479999998,
+      "Colorectal": 5.842231080000001,
+      "Bladder": 6.4305588,
+      "HeadAndNeck": 47.88714,
+      "NonHodgkin": 13.5110145,
+      "Melanoma": 7.242359840000001,
+      "Ovary": 0.9166966799999999,
+      "Cervix": 4.651893599999999
+    }
+  },
+  {
+    "county": "FLLee County",
+    "cancerRates": {
+      "AllCancers": 3958.6192470000005,
+      "LungAndBronchus": 380.889045,
+      "Prostate": 841.4583269999998,
+      "Breast": 1109.3940690000002,
+      "Colorectal": 279.318633,
+      "Bladder": 157.60926,
+      "HeadAndNeck": 162.86290200000002,
+      "NonHodgkin": 196.13596799999996,
+      "Melanoma": 373.00858200000005,
+      "Ovary": 76.177809,
+      "Cervix": 107.69966100000002
+    },
+    "protonEligible": {
+      "AllCancers": 593.7928870500001,
+      "LungAndBronchus": 66.655582875,
+      "Prostate": 252.43749809999994,
+      "Breast": 194.14396207500002,
+      "Colorectal": 9.776152155,
+      "Bladder": 11.8206945,
+      "HeadAndNeck": 81.43145100000001,
+      "NonHodgkin": 24.516995999999995,
+      "Melanoma": 14.920343280000003,
+      "Ovary": 1.142667135,
+      "Cervix": 16.154949150000004
+    }
+  },
+  {
+    "county": "FLLeon County",
+    "cancerRates": {
+      "AllCancers": 1565.8153280000001,
+      "LungAndBronchus": 176.43832,
+      "Prostate": 536.193064,
+      "Breast": 476.68251200000003,
+      "Colorectal": 96.59250399999999,
+      "Bladder": 46.35244,
+      "HeadAndNeck": 47.548632000000005,
+      "NonHodgkin": 73.565808,
+      "Melanoma": 69.678184,
+      "Ovary": 55.921975999999994,
+      "Cervix": 35.28766400000001
+    },
+    "protonEligible": {
+      "AllCancers": 234.87229920000001,
+      "LungAndBronchus": 30.876706,
+      "Prostate": 160.8579192,
+      "Breast": 83.4194396,
+      "Colorectal": 3.38073764,
+      "Bladder": 3.476433,
+      "HeadAndNeck": 23.774316000000002,
+      "NonHodgkin": 9.195726,
+      "Melanoma": 2.78712736,
+      "Ovary": 0.8388296399999998,
+      "Cervix": 5.2931496000000005
+    }
+  },
+  {
+    "county": "FLLevy County",
+    "cancerRates": {
+      "AllCancers": 239.88288,
+      "LungAndBronchus": 46.67624,
+      "Prostate": 55.60392,
+      "Breast": 58.41808,
+      "Colorectal": 14.45896,
+      "Bladder": 6.25908,
+      "HeadAndNeck": 12.71224,
+      "NonHodgkin": 8.15136,
+      "Melanoma": 15.914559999999998,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 35.982431999999996,
+      "LungAndBronchus": 8.168341999999999,
+      "Prostate": 16.681176,
+      "Breast": 10.223164,
+      "Colorectal": 0.5060636000000001,
+      "Bladder": 0.469431,
+      "HeadAndNeck": 6.35612,
+      "NonHodgkin": 1.01892,
+      "Melanoma": 0.6365823999999999,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLLiberty County",
+    "cancerRates": {
+      "AllCancers": 38.27874,
+      "LungAndBronchus": 0,
+      "Prostate": 0,
+      "Breast": 0,
+      "Colorectal": 0,
+      "Bladder": 0,
+      "HeadAndNeck": 0,
+      "NonHodgkin": 0,
+      "Melanoma": 0,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 5.741810999999999,
+      "LungAndBronchus": 0.0,
+      "Prostate": 0.0,
+      "Breast": 0.0,
+      "Colorectal": 0.0,
+      "Bladder": 0.0,
+      "HeadAndNeck": 0.0,
+      "NonHodgkin": 0.0,
+      "Melanoma": 0.0,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLMadison County",
+    "cancerRates": {
+      "AllCancers": 105.650688,
+      "LungAndBronchus": 10.31745,
+      "Prostate": 34.51656,
+      "Breast": 29.976882000000003,
+      "Colorectal": 12.324663000000001,
+      "Bladder": 0,
+      "HeadAndNeck": 0,
+      "NonHodgkin": 6.00288,
+      "Melanoma": 0,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 15.8476032,
+      "LungAndBronchus": 1.8055537499999996,
+      "Prostate": 10.354968,
+      "Breast": 5.24595435,
+      "Colorectal": 0.4313632050000001,
+      "Bladder": 0.0,
+      "HeadAndNeck": 0.0,
+      "NonHodgkin": 0.75036,
+      "Melanoma": 0.0,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLManatee County",
+    "cancerRates": {
+      "AllCancers": 2234.7186,
+      "LungAndBronchus": 222.395,
+      "Prostate": 510.8062,
+      "Breast": 643.3068,
+      "Colorectal": 154.506,
+      "Bladder": 80.5304,
+      "HeadAndNeck": 86.1488,
+      "NonHodgkin": 115.6454,
+      "Melanoma": 169.0202,
+      "Ovary": 58.0568,
+      "Cervix": 32.774
+    },
+    "protonEligible": {
+      "AllCancers": 335.20779,
+      "LungAndBronchus": 38.919125,
+      "Prostate": 153.24186,
+      "Breast": 112.57868999999998,
+      "Colorectal": 5.407710000000001,
+      "Bladder": 6.0397799999999995,
+      "HeadAndNeck": 43.0744,
+      "NonHodgkin": 14.455675,
+      "Melanoma": 6.760808,
+      "Ovary": 0.870852,
+      "Cervix": 4.9161
+    }
+  },
+  {
+    "county": "FLMarion County",
+    "cancerRates": {
+      "AllCancers": 2325.73564,
+      "LungAndBronchus": 275.33452,
+      "Prostate": 516.14156,
+      "Breast": 576.7859800000001,
+      "Colorectal": 158.02962000000002,
+      "Bladder": 76.13752,
+      "HeadAndNeck": 89.85998,
+      "NonHodgkin": 112.8783,
+      "Melanoma": 180.16262,
+      "Ovary": 62.41506,
+      "Cervix": 70.38294
+    },
+    "protonEligible": {
+      "AllCancers": 348.860346,
+      "LungAndBronchus": 48.183541,
+      "Prostate": 154.842468,
+      "Breast": 100.93754650000001,
+      "Colorectal": 5.531036700000001,
+      "Bladder": 5.7103139999999994,
+      "HeadAndNeck": 44.92999,
+      "NonHodgkin": 14.1097875,
+      "Melanoma": 7.2065048,
+      "Ovary": 0.9362258999999999,
+      "Cervix": 10.557441
+    }
+  },
+  {
+    "county": "FLMartin County",
+    "cancerRates": {
+      "AllCancers": 821.5499520000001,
+      "LungAndBronchus": 79.81056,
+      "Prostate": 163.279104,
+      "Breast": 220.80921600000002,
+      "Colorectal": 53.20704,
+      "Bladder": 28.931327999999997,
+      "HeadAndNeck": 28.432512000000003,
+      "NonHodgkin": 48.21888,
+      "Melanoma": 97.43539200000001,
+      "Ovary": 15.79584,
+      "Cervix": 20.118911999999998
+    },
+    "protonEligible": {
+      "AllCancers": 123.2324928,
+      "LungAndBronchus": 13.966847999999999,
+      "Prostate": 48.983731199999994,
+      "Breast": 38.641612800000004,
+      "Colorectal": 1.8622464,
+      "Bladder": 2.1698495999999996,
+      "HeadAndNeck": 14.216256000000001,
+      "NonHodgkin": 6.02736,
+      "Melanoma": 3.8974156800000004,
+      "Ovary": 0.2369376,
+      "Cervix": 3.0178367999999995
+    }
+  },
+  {
+    "county": "FLMiami-Dade County",
+    "cancerRates": {
+      "AllCancers": 11457.496581,
+      "LungAndBronchus": 1137.6237740000001,
+      "Prostate": 3026.19132,
+      "Breast": 3110.25219,
+      "Colorectal": 1019.938556,
+      "Bladder": 372.66985700000004,
+      "HeadAndNeck": 389.482031,
+      "NonHodgkin": 537.989568,
+      "Melanoma": 260.588697,
+      "Ovary": 297.01507399999997,
+      "Cervix": 294.213045
+    },
+    "protonEligible": {
+      "AllCancers": 1718.6244871499998,
+      "LungAndBronchus": 199.08416045,
+      "Prostate": 907.857396,
+      "Breast": 544.29413325,
+      "Colorectal": 35.69784946,
+      "Bladder": 27.950239275,
+      "HeadAndNeck": 194.7410155,
+      "NonHodgkin": 67.248696,
+      "Melanoma": 10.423547880000001,
+      "Ovary": 4.455226109999999,
+      "Cervix": 44.13195675
+    }
+  },
+  {
+    "county": "FLMonroe County",
+    "cancerRates": {
+      "AllCancers": 347.91676199999995,
+      "LungAndBronchus": 31.840776,
+      "Prostate": 69.309972,
+      "Breast": 120.76981199999999,
+      "Colorectal": 32.886054,
+      "Bladder": 15.116328000000001,
+      "HeadAndNeck": 16.242012,
+      "NonHodgkin": 12.0609,
+      "Melanoma": 20.985966,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 52.18751429999999,
+      "LungAndBronchus": 5.5721358,
+      "Prostate": 20.7929916,
+      "Breast": 21.134717099999996,
+      "Colorectal": 1.1510118900000001,
+      "Bladder": 1.1337246,
+      "HeadAndNeck": 8.121006,
+      "NonHodgkin": 1.5076125,
+      "Melanoma": 0.83943864,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLNassau County",
+    "cancerRates": {
+      "AllCancers": 585.69692,
+      "LungAndBronchus": 55.042685,
+      "Prostate": 151.55442200000002,
+      "Breast": 168.65506200000004,
+      "Colorectal": 40.293383000000006,
+      "Bladder": 22.017074000000004,
+      "HeadAndNeck": 24.902807000000003,
+      "NonHodgkin": 27.681660999999995,
+      "Melanoma": 44.568543000000005,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 87.85453799999999,
+      "LungAndBronchus": 9.632469875,
+      "Prostate": 45.4663266,
+      "Breast": 29.514635850000005,
+      "Colorectal": 1.4102684050000003,
+      "Bladder": 1.6512805500000003,
+      "HeadAndNeck": 12.451403500000001,
+      "NonHodgkin": 3.4602076249999993,
+      "Melanoma": 1.7827417200000002,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLOkaloosa County",
+    "cancerRates": {
+      "AllCancers": 1019.88238,
+      "LungAndBronchus": 135.52591,
+      "Prostate": 210.49769,
+      "Breast": 326.72613,
+      "Colorectal": 95.60011,
+      "Bladder": 46.80191,
+      "HeadAndNeck": 34.38055,
+      "NonHodgkin": 34.15874,
+      "Melanoma": 62.55042,
+      "Ovary": 32.82788,
+      "Cervix": 31.27521
+    },
+    "protonEligible": {
+      "AllCancers": 152.982357,
+      "LungAndBronchus": 23.71703425,
+      "Prostate": 63.149307,
+      "Breast": 57.17707275,
+      "Colorectal": 3.3460038500000002,
+      "Bladder": 3.51014325,
+      "HeadAndNeck": 17.190275,
+      "NonHodgkin": 4.2698425,
+      "Melanoma": 2.5020168000000003,
+      "Ovary": 0.4924182,
+      "Cervix": 4.6912815
+    }
+  },
+  {
+    "county": "FLOkeechobee County",
+    "cancerRates": {
+      "AllCancers": 250.918512,
+      "LungAndBronchus": 45.846208,
+      "Prostate": 62.122464,
+      "Breast": 54.53824,
+      "Colorectal": 23.136143999999998,
+      "Bladder": 11.418944000000002,
+      "HeadAndNeck": 14.69976,
+      "NonHodgkin": 7.88248,
+      "Melanoma": 13.038048,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 37.6377768,
+      "LungAndBronchus": 8.023086399999999,
+      "Prostate": 18.6367392,
+      "Breast": 9.544191999999999,
+      "Colorectal": 0.80976504,
+      "Bladder": 0.8564208000000001,
+      "HeadAndNeck": 7.34988,
+      "NonHodgkin": 0.98531,
+      "Melanoma": 0.52152192,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLOrange County",
+    "cancerRates": {
+      "AllCancers": 6886.705014,
+      "LungAndBronchus": 634.12083,
+      "Prostate": 1865.6904419999998,
+      "Breast": 2125.450782,
+      "Colorectal": 597.448782,
+      "Bladder": 226.14429600000003,
+      "HeadAndNeck": 218.504286,
+      "NonHodgkin": 302.544396,
+      "Melanoma": 449.23258799999996,
+      "Ovary": 146.688192,
+      "Cervix": 135.992178
+    },
+    "protonEligible": {
+      "AllCancers": 1033.0057520999999,
+      "LungAndBronchus": 110.97114524999999,
+      "Prostate": 559.7071325999999,
+      "Breast": 371.95388684999995,
+      "Colorectal": 20.910707370000004,
+      "Bladder": 16.960822200000003,
+      "HeadAndNeck": 109.252143,
+      "NonHodgkin": 37.8180495,
+      "Melanoma": 17.96930352,
+      "Ovary": 2.20032288,
+      "Cervix": 20.398826699999997
+    }
+  },
+  {
+    "county": "FLOsceola County",
+    "cancerRates": {
+      "AllCancers": 2398.4739219999997,
+      "LungAndBronchus": 210.51076600000002,
+      "Prostate": 705.71687,
+      "Breast": 726.912462,
+      "Colorectal": 185.46143,
+      "Bladder": 82.373778,
+      "HeadAndNeck": 76.111444,
+      "NonHodgkin": 113.20373,
+      "Melanoma": 109.349986,
+      "Ovary": 44.799774000000006,
+      "Cervix": 65.99536599999999
+    },
+    "protonEligible": {
+      "AllCancers": 359.7710882999999,
+      "LungAndBronchus": 36.83938405,
+      "Prostate": 211.715061,
+      "Breast": 127.20968085,
+      "Colorectal": 6.491150050000001,
+      "Bladder": 6.17803335,
+      "HeadAndNeck": 38.055722,
+      "NonHodgkin": 14.15046625,
+      "Melanoma": 4.37399944,
+      "Ovary": 0.6719966100000001,
+      "Cervix": 9.899304899999999
+    }
+  },
+  {
+    "county": "FLPalm Beach County",
+    "cancerRates": {
+      "AllCancers": 6811.863498000001,
+      "LungAndBronchus": 614.53314,
+      "Prostate": 1556.8172879999997,
+      "Breast": 1832.5693379999998,
+      "Colorectal": 508.959498,
+      "Bladder": 278.903502,
+      "HeadAndNeck": 259.99479,
+      "NonHodgkin": 341.93254199999996,
+      "Melanoma": 449.08191,
+      "Ovary": 157.5726,
+      "Cervix": 102.42219
+    },
+    "protonEligible": {
+      "AllCancers": 1021.7795247,
+      "LungAndBronchus": 107.54329949999999,
+      "Prostate": 467.0451863999999,
+      "Breast": 320.69963414999995,
+      "Colorectal": 17.81358243,
+      "Bladder": 20.91776265,
+      "HeadAndNeck": 129.997395,
+      "NonHodgkin": 42.741567749999994,
+      "Melanoma": 17.9632764,
+      "Ovary": 2.3635889999999997,
+      "Cervix": 15.3633285
+    }
+  },
+  {
+    "county": "FLPasco County",
+    "cancerRates": {
+      "AllCancers": 3539.8599679999993,
+      "LungAndBronchus": 410.10572799999994,
+      "Prostate": 727.128248,
+      "Breast": 858.658868,
+      "Colorectal": 275.877044,
+      "Bladder": 124.78546,
+      "HeadAndNeck": 145.695456,
+      "NonHodgkin": 182.11932,
+      "Melanoma": 248.22188799999998,
+      "Ovary": 68.800632,
+      "Cervix": 56.659344000000004
+    },
+    "protonEligible": {
+      "AllCancers": 530.9789951999999,
+      "LungAndBronchus": 71.76850239999999,
+      "Prostate": 218.13847439999998,
+      "Breast": 150.2653019,
+      "Colorectal": 9.655696540000001,
+      "Bladder": 9.3589095,
+      "HeadAndNeck": 72.847728,
+      "NonHodgkin": 22.764915,
+      "Melanoma": 9.92887552,
+      "Ovary": 1.03200948,
+      "Cervix": 8.4989016
+    }
+  },
+  {
+    "county": "FLPinellas County",
+    "cancerRates": {
+      "AllCancers": 4650.804389000001,
+      "LungAndBronchus": 565.343548,
+      "Prostate": 1007.373906,
+      "Breast": 1308.068377,
+      "Colorectal": 367.093881,
+      "Bladder": 203.941045,
+      "HeadAndNeck": 213.426675,
+      "NonHodgkin": 190.66116300000002,
+      "Melanoma": 292.15740400000004,
+      "Ovary": 113.82756,
+      "Cervix": 82.524981
+    },
+    "protonEligible": {
+      "AllCancers": 697.6206583500001,
+      "LungAndBronchus": 98.9351209,
+      "Prostate": 302.2121718,
+      "Breast": 228.911965975,
+      "Colorectal": 12.848285835000002,
+      "Bladder": 15.295578375,
+      "HeadAndNeck": 106.7133375,
+      "NonHodgkin": 23.832645375000002,
+      "Melanoma": 11.686296160000001,
+      "Ovary": 1.7074134,
+      "Cervix": 12.378747149999999
+    }
+  },
+  {
+    "county": "FLPolk County",
+    "cancerRates": {
+      "AllCancers": 4320.58781,
+      "LungAndBronchus": 496.00593,
+      "Prostate": 935.15051,
+      "Breast": 1123.23036,
+      "Colorectal": 424.27315,
+      "Bladder": 153.08825,
+      "HeadAndNeck": 179.33195,
+      "NonHodgkin": 185.45548,
+      "Melanoma": 313.17481999999995,
+      "Ovary": 80.48067999999999,
+      "Cervix": 104.10001
+    },
+    "protonEligible": {
+      "AllCancers": 648.0881714999999,
+      "LungAndBronchus": 86.80103774999999,
+      "Prostate": 280.545153,
+      "Breast": 196.565313,
+      "Colorectal": 14.849560250000001,
+      "Bladder": 11.481618749999999,
+      "HeadAndNeck": 89.665975,
+      "NonHodgkin": 23.181935,
+      "Melanoma": 12.526992799999999,
+      "Ovary": 1.2072101999999998,
+      "Cervix": 15.615001499999998
+    }
+  },
+  {
+    "county": "FLPutnam County",
+    "cancerRates": {
+      "AllCancers": 391.46842399999997,
+      "LungAndBronchus": 68.79459,
+      "Prostate": 88.927696,
+      "Breast": 113.958044,
+      "Colorectal": 26.740496,
+      "Bladder": 9.561282,
+      "HeadAndNeck": 22.076456,
+      "NonHodgkin": 11.971036000000002,
+      "Melanoma": 19.899904000000003,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 58.720263599999996,
+      "LungAndBronchus": 12.039053249999998,
+      "Prostate": 26.6783088,
+      "Breast": 19.942657699999998,
+      "Colorectal": 0.9359173600000001,
+      "Bladder": 0.71709615,
+      "HeadAndNeck": 11.038228,
+      "NonHodgkin": 1.4963795000000002,
+      "Melanoma": 0.7959961600000002,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLSanta Rosa County",
+    "cancerRates": {
+      "AllCancers": 1175.91055,
+      "LungAndBronchus": 140.391475,
+      "Prostate": 310.127935,
+      "Breast": 297.03880499999997,
+      "Colorectal": 99.22405,
+      "Bladder": 56.367705,
+      "HeadAndNeck": 39.68962,
+      "NonHodgkin": 54.04544,
+      "Melanoma": 96.479555,
+      "Ovary": 22.167075,
+      "Cervix": 24.91157
+    },
+    "protonEligible": {
+      "AllCancers": 176.3865825,
+      "LungAndBronchus": 24.568508125,
+      "Prostate": 93.03838049999999,
+      "Breast": 51.981790874999994,
+      "Colorectal": 3.4728417500000006,
+      "Bladder": 4.227577875,
+      "HeadAndNeck": 19.84481,
+      "NonHodgkin": 6.75568,
+      "Melanoma": 3.8591822000000002,
+      "Ovary": 0.332506125,
+      "Cervix": 3.7367355
+    }
+  },
+  {
+    "county": "FLSarasota County",
+    "cancerRates": {
+      "AllCancers": 2426.667648,
+      "LungAndBronchus": 213.58131,
+      "Prostate": 617.7059459999999,
+      "Breast": 615.306156,
+      "Colorectal": 172.304922,
+      "Bladder": 107.51059199999999,
+      "HeadAndNeck": 77.753196,
+      "NonHodgkin": 111.830214,
+      "Melanoma": 179.02433399999998,
+      "Ovary": 57.115002000000004,
+      "Cervix": 55.675128
+    },
+    "protonEligible": {
+      "AllCancers": 364.0001472,
+      "LungAndBronchus": 37.37672925,
+      "Prostate": 185.31178379999997,
+      "Breast": 107.67857729999999,
+      "Colorectal": 6.030672270000001,
+      "Bladder": 8.063294399999998,
+      "HeadAndNeck": 38.876598,
+      "NonHodgkin": 13.97877675,
+      "Melanoma": 7.16097336,
+      "Ovary": 0.85672503,
+      "Cervix": 8.351269199999999
+    }
+  },
+  {
+    "county": "FLSeminole County",
+    "cancerRates": {
+      "AllCancers": 2318.249292,
+      "LungAndBronchus": 248.89330400000003,
+      "Prostate": 616.822536,
+      "Breast": 681.25934,
+      "Colorectal": 171.66751599999998,
+      "Bladder": 80.177092,
+      "HeadAndNeck": 89.03100400000001,
+      "NonHodgkin": 89.522888,
+      "Melanoma": 162.32172,
+      "Ovary": 57.550428,
+      "Cervix": 61.4855
+    },
+    "protonEligible": {
+      "AllCancers": 347.7373938,
+      "LungAndBronchus": 43.5563282,
+      "Prostate": 185.0467608,
+      "Breast": 119.22038449999998,
+      "Colorectal": 6.00836306,
+      "Bladder": 6.0132819,
+      "HeadAndNeck": 44.515502000000005,
+      "NonHodgkin": 11.190361,
+      "Melanoma": 6.4928688,
+      "Ovary": 0.8632564199999999,
+      "Cervix": 9.222825
+    }
+  },
+  {
+    "county": "FLSt. Johns County",
+    "cancerRates": {
+      "AllCancers": 1685.232048,
+      "LungAndBronchus": 177.319936,
+      "Prostate": 449.53374400000007,
+      "Breast": 556.202768,
+      "Colorectal": 110.132304,
+      "Bladder": 77.231144,
+      "HeadAndNeck": 72.38255199999999,
+      "NonHodgkin": 80.348096,
+      "Melanoma": 132.643624,
+      "Ovary": 39.82772,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 252.7848072,
+      "LungAndBronchus": 31.0309888,
+      "Prostate": 134.8601232,
+      "Breast": 97.3354844,
+      "Colorectal": 3.8546306400000003,
+      "Bladder": 5.7923358,
+      "HeadAndNeck": 36.191275999999995,
+      "NonHodgkin": 10.043512,
+      "Melanoma": 5.305744959999999,
+      "Ovary": 0.5974157999999999,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLSt. Lucie County",
+    "cancerRates": {
+      "AllCancers": 1921.693975,
+      "LungAndBronchus": 227.78613400000003,
+      "Prostate": 402.046551,
+      "Breast": 476.499616,
+      "Colorectal": 149.711028,
+      "Bladder": 87.73388200000001,
+      "HeadAndNeck": 89.34367799999998,
+      "NonHodgkin": 75.257963,
+      "Melanoma": 145.284089,
+      "Ovary": 39.440002,
+      "Cervix": 41.049797999999996
+    },
+    "protonEligible": {
+      "AllCancers": 288.25409625,
+      "LungAndBronchus": 39.862573450000006,
+      "Prostate": 120.6139653,
+      "Breast": 83.3874328,
+      "Colorectal": 5.23988598,
+      "Bladder": 6.5800411500000004,
+      "HeadAndNeck": 44.67183899999999,
+      "NonHodgkin": 9.407245375,
+      "Melanoma": 5.81136356,
+      "Ovary": 0.5916000299999999,
+      "Cervix": 6.157469699999999
+    }
+  },
+  {
+    "county": "FLSumter County",
+    "cancerRates": {
+      "AllCancers": 644.49862,
+      "LungAndBronchus": 65.790924,
+      "Prostate": 157.772,
+      "Breast": 181.4378,
+      "Colorectal": 40.547404,
+      "Bladder": 23.508028000000003,
+      "HeadAndNeck": 30.607767999999997,
+      "NonHodgkin": 29.97668,
+      "Melanoma": 42.440667999999995,
+      "Ovary": 18.459324,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 96.674793,
+      "LungAndBronchus": 11.5134117,
+      "Prostate": 47.331599999999995,
+      "Breast": 31.751615,
+      "Colorectal": 1.41915914,
+      "Bladder": 1.7631021000000002,
+      "HeadAndNeck": 15.303883999999998,
+      "NonHodgkin": 3.747085,
+      "Melanoma": 1.69762672,
+      "Ovary": 0.27688986,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLSuwannee County",
+    "cancerRates": {
+      "AllCancers": 237.133825,
+      "LungAndBronchus": 34.474683999999996,
+      "Prostate": 38.663647,
+      "Breast": 65.241895,
+      "Colorectal": 23.400413999999998,
+      "Bladder": 9.100161,
+      "HeadAndNeck": 10.737226999999999,
+      "NonHodgkin": 11.026120999999998,
+      "Melanoma": 11.459462,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 35.57007375,
+      "LungAndBronchus": 6.033069699999999,
+      "Prostate": 11.599094099999999,
+      "Breast": 11.417331625,
+      "Colorectal": 0.81901449,
+      "Bladder": 0.682512075,
+      "HeadAndNeck": 5.3686134999999995,
+      "NonHodgkin": 1.3782651249999998,
+      "Melanoma": 0.45837848000000003,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLTaylor County",
+    "cancerRates": {
+      "AllCancers": 111.03435,
+      "LungAndBronchus": 17.75277,
+      "Prostate": 21.50694,
+      "Breast": 41.95338,
+      "Colorectal": 11.64429,
+      "Bladder": 0,
+      "HeadAndNeck": 0,
+      "NonHodgkin": 0,
+      "Melanoma": 0,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 16.6551525,
+      "LungAndBronchus": 3.10673475,
+      "Prostate": 6.452082,
+      "Breast": 7.3418415,
+      "Colorectal": 0.40755015000000006,
+      "Bladder": 0.0,
+      "HeadAndNeck": 0.0,
+      "NonHodgkin": 0.0,
+      "Melanoma": 0.0,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLUnion County",
+    "cancerRates": {
+      "AllCancers": 214.90625,
+      "LungAndBronchus": 27.86875,
+      "Prostate": 70.9475,
+      "Breast": 18.21625,
+      "Colorectal": 29.9,
+      "Bladder": 0,
+      "HeadAndNeck": 18.525,
+      "NonHodgkin": 0,
+      "Melanoma": 13.0325,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 32.2359375,
+      "LungAndBronchus": 4.877031249999999,
+      "Prostate": 21.28425,
+      "Breast": 3.1878437499999994,
+      "Colorectal": 1.0465,
+      "Bladder": 0.0,
+      "HeadAndNeck": 9.2625,
+      "NonHodgkin": 0.0,
+      "Melanoma": 0.5213,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLVolusia County",
+    "cancerRates": {
+      "AllCancers": 3182.081958,
+      "LungAndBronchus": 414.895932,
+      "Prostate": 709.083837,
+      "Breast": 818.87355,
+      "Colorectal": 236.56347,
+      "Bladder": 115.24887,
+      "HeadAndNeck": 132.839487,
+      "NonHodgkin": 129.200049,
+      "Melanoma": 235.35032399999997,
+      "Ovary": 70.36246799999999,
+      "Cervix": 97.658253
+    },
+    "protonEligible": {
+      "AllCancers": 477.3122937,
+      "LungAndBronchus": 72.6067881,
+      "Prostate": 212.7251511,
+      "Breast": 143.30287124999998,
+      "Colorectal": 8.27972145,
+      "Bladder": 8.64366525,
+      "HeadAndNeck": 66.4197435,
+      "NonHodgkin": 16.150006125,
+      "Melanoma": 9.414012959999999,
+      "Ovary": 1.0554370199999998,
+      "Cervix": 14.64873795
+    }
+  },
+  {
+    "county": "FLWakulla County",
+    "cancerRates": {
+      "AllCancers": 202.557302,
+      "LungAndBronchus": 24.795939,
+      "Prostate": 47.07800399999999,
+      "Breast": 44.297507,
+      "Colorectal": 14.511909000000001,
+      "Bladder": 0,
+      "HeadAndNeck": 10.703009000000002,
+      "NonHodgkin": 10.893454000000002,
+      "Melanoma": 0,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 30.383595299999996,
+      "LungAndBronchus": 4.339289325,
+      "Prostate": 14.123401199999998,
+      "Breast": 7.752063725,
+      "Colorectal": 0.5079168150000001,
+      "Bladder": 0.0,
+      "HeadAndNeck": 5.351504500000001,
+      "NonHodgkin": 1.3616817500000002,
+      "Melanoma": 0.0,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLWalton County",
+    "cancerRates": {
+      "AllCancers": 381.73449600000004,
+      "LungAndBronchus": 46.457423999999996,
+      "Prostate": 100.19131200000001,
+      "Breast": 107.561064,
+      "Colorectal": 42.352752,
+      "Bladder": 16.138824000000003,
+      "HeadAndNeck": 14.273064000000002,
+      "NonHodgkin": 13.06032,
+      "Melanoma": 15.952248,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 57.260174400000004,
+      "LungAndBronchus": 8.130049199999998,
+      "Prostate": 30.0573936,
+      "Breast": 18.8231862,
+      "Colorectal": 1.4823463200000002,
+      "Bladder": 1.2104118000000001,
+      "HeadAndNeck": 7.136532000000001,
+      "NonHodgkin": 1.63254,
+      "Melanoma": 0.6380899200000001,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  },
+  {
+    "county": "FLWashington County",
+    "cancerRates": {
+      "AllCancers": 105.1783,
+      "LungAndBronchus": 21.489475,
+      "Prostate": 0,
+      "Breast": 22.47719,
+      "Colorectal": 12.97377,
+      "Bladder": 0,
+      "HeadAndNeck": 0,
+      "NonHodgkin": 0,
+      "Melanoma": 0,
+      "Ovary": 0,
+      "Cervix": 0
+    },
+    "protonEligible": {
+      "AllCancers": 15.776744999999998,
+      "LungAndBronchus": 3.7606581249999995,
+      "Prostate": 0.0,
+      "Breast": 3.9335082499999996,
+      "Colorectal": 0.45408195000000007,
+      "Bladder": 0.0,
+      "HeadAndNeck": 0.0,
+      "NonHodgkin": 0.0,
+      "Melanoma": 0.0,
+      "Ovary": 0.0,
+      "Cervix": 0.0
+    }
+  }
+]

@@ -1,0 +1,22 @@
+.regionLabels {
+    background-color: transparent;
+    border: transparent;
+    box-shadow: none;
+    font-size: 12px;
+}
+
+.regionLabels:focus:not(:focus-visible) {
+    outline: none;
+    border: 0;
+    box-shadow: none;
+}
+
+:global(.leaflet-interactive:focus:not(:focus-visible)) {
+    outline: none;
+}
+
+.regionPopup ul {
+    margin-block-start: 4px;
+    padding-inline-start: 1em;
+    list-style-type: '- ';
+}
