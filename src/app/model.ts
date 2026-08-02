@@ -65,7 +65,7 @@ export class Model {
         let thisHospital = this.hospitals.find((hospital) => hospital.getFacilityName() === "Fake Hospital")
         //if the target hospital does not yet exist, create it and add it to the list of hospitals
         if (!thisHospital) {
-            thisHospital = new Hospital("FL", "Palm Beach", "123 Abc Rd", "33480", "123 Abc Rd, Palm Beach, FL 33480", 26.700488237926315, -80.03558267301347, "Palm Beach County", this.hospitals.length.toString())
+            thisHospital = new Hospital("FL", "Palm Beach", "123 Abc Rd", "33480", "123 Abc Rd, Palm Beach, FL 33480", 26.7, -80, "Palm Beach County", this.hospitals.length.toString())
             this.hospitals.push(thisHospital)
             this.thisHospital = thisHospital
         }

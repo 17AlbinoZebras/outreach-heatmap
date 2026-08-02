@@ -25,14 +25,14 @@
     ],
     "win": {
       "target": "nsis",
-      "icon": "src/app/icon.svg"
+      "icon": "src/app/icon.png"
     },
     "mac": {
       "target": "dmg",
       "icon": "src/app/icon.png"
     },
     "linux": {
-      "target": "src/app/icon.png"
+      "target": "AppImage"
     }
   },
   "dependencies": {
