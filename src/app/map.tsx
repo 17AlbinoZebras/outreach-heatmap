@@ -100,8 +100,8 @@ export function HeatMap( {model, appState}: {model: Model, appState: AppStateTyp
         <div className='map, markercluster-map'>
             <MapContainer key={activeGroup} center={mapCenter} zoom={zoom} scrollWheelZoom={false} style={{ height: "100vh", width: "100%", margin: "0" }}>
                 <TileLayer
-                    attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-                    url="https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png"
+                    attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attributions">CARTO</a>'
+                    url="https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png?key=cb1_2r6n_1_781b6adbcb6855d69cbbd6a2"
                 />
                 {countyData && stateData && (
                     <ZoomAwareGeoJSON key={`${activeGroup}-${perCapita}-${adjustForCancer}-${adjustForReferrals}-${dateRange.start}-${dateRange.end}-${showLongitudinalAnalysis}-${longAnalysisPeriod1}-${longAnalysisPeriod2}`} model={model} appState={appState} />
